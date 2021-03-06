@@ -1,0 +1,30 @@
+Need cam (formal attire)
+English only 
+Q and A can be Taglish 
+
+Presentation
+Complete Documents
+Powerpoint Presentation
+ 
+1. Page numbers
+	preliminaries - lower center
+	chapters - upper right
+   note: 1st page of each chapter has no page numbers but included sa numbering
+
+2. Powerpoint presentation (15-20 mins)
+    brief discussion
+	- Intro
+	- SOP (questions only)
+	- Objectives (brief discussion)
+	- Scope (module only)
+	- methodology
+	- diagrams (discuss each table)
+	- prototype
+
+3. Q and A 
+    6 questions 10 pts each (2 each member) 
+    questions are based on what is written on the proponent's documents
+
+Prototype
+  Combo box categories
+  Re-arrange product interface
